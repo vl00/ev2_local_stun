@@ -18,4 +18,4 @@ wsl hostname -I
 ```
 
 4.刷卡配置一下
-![](./media/容器版可能需要wsl2的ip及其sever.json的配置.png)
+![](../media/容器版可能需要wsl2的ip及其sever.json的配置.png)
