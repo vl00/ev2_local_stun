@@ -4,7 +4,7 @@
 2.安装+运行 (2种方式任选其一)
 ```
 # 方式1 直接docker命令
-docker run -d --name exvs2_local_stun -p 3478:3478/udp vl00at111/exvs2_local_stun
+docker run -d --name exvs2_local_stun -p 3478:3478/udp vl00at111/exvs2-local-stun
 
 # 方式2 使用docker-compose.yml
 # 安装docker-compose

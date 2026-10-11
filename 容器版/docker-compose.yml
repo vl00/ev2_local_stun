@@ -8,8 +8,8 @@ version: "3"
 
 services:
   server:
-    image: vl00at111/exvs2_local_stun
-    container_name: exvs2_local_stun
+    image: vl00at111/exvs2-local-stun
+    container_name: exvs2-local-stun
     
     restart: always
 
